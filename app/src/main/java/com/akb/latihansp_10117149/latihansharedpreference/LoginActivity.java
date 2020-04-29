@@ -8,6 +8,8 @@ Deskripsi Pengerjaan : Membuat awal project sampai selesai =
 - Preferences
 - UtilStatic
 - activity_main, activity_register, activity_home
+Tanggal Pengerjaan : 30 April 2020
+Deskripsi Pengerjaan : Generate APK
 NIM : 10117149
 NAMA : M NIZAR MIFTAHUL ULYA
 KELAS : IF4
